@@ -9,7 +9,7 @@ const questions = [
         ]
     },
     {
-        question:"Which is Smallest animal in the world ? ",
+        question:"Which is Largest animal in the world ? ",
         answers:[
             {text:"Shark",correct:false},
             {text:"Blue whale",correct:true},
