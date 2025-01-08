@@ -1,15 +1,15 @@
 const questions = [
     {
-        question:"Which is largest animal in the world ? ",
+        question:"Which was the earliest civilization int India ? ",
         answers:[
-            {text:"Shark",correct:false},
-            {text:"Blue whale",correct:true},
-            {text:"elephant",correct:false},
-            {text:"Giraffe",correct:false},
+            {text:"Mesopotamain civilization",correct:false},
+            {text:"Harappan civilization",correct:true},
+            {text:"Indus Valley civilization",correct:false},
+            {text:"Greek civilization",correct:false},
         ]
     },
     {
-        question:"Which is largest animal in the world ? ",
+        question:"Which is Smallest animal in the world ? ",
         answers:[
             {text:"Shark",correct:false},
             {text:"Blue whale",correct:true},
